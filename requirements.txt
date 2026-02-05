@@ -16,3 +16,4 @@ oneccl-devel
 wheel==0.43.0
 setuptools==71.0.0
 py-cpuinfo==9.0.0
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
